@@ -7,7 +7,7 @@ First, set up a set of tables using the queries available in the .sql file
 The source of the program's information is a table with a list of hosts and access parameters to all our databases.
 
 
- "ID HOST_NAME                DB_PO DB_SERVICE_NAME   DB_USER     DB_PASSWORD  "
+ ID HOST_NAME                DB_PO DB_SERVICE_NAME   DB_USER     DB_PASSWORD ::
  -- ----------------------   ----- ----------------  ---------   -------------
  01 dbhost001.domain.com     1523  hr                dbsnmp      password     
  02 dbhost002.domain.com     1521  crm               dbsnmp      password     

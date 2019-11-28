@@ -21,7 +21,7 @@ In addition, there is also a table with queries that we want to query all our da
 It is recommended to run the program cyclically with the --sql parameter to create a history of changes in size and parameters in the examined databases.
 
  ```                                                                                                    
-   ID DATA                DB_ID         DB_NAME      DB_SIZE    SGA_SIZE    PGA_SIZE    VERSION   CPU
+ID    DATA                DB_ID         DB_NAME    DB_SIZE      SGA_SIZE   PGA_SIZE   VERSION     CPU
 ----- ------------------- -----------   ---------  ----------   ---------- ---------- ----------- --- 
  3303 21-11-2019 20:00:13 2537186398    hr        37219860480   1912602624  118849086  18.0.0.0.0   2 
  3304 21-11-2019 20:00:14 6147797409    crm      118734848000   1593835520  405258920  19.0.0.0.0   2 

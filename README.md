@@ -30,3 +30,10 @@ ID    DATA                  DB_ID        DB_NAME      DB_SIZE     SGA_SIZE   PGA
 ```
 
 If we run the program with the --xls parameter, then the current data was saved in an Excel file (for further manual processing of the type charts or presentations)
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |

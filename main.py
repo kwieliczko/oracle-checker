@@ -1,8 +1,7 @@
-##################################################################################################
-#									
-# 	Created 27-11-2019 by Karol Wieliczko	
+##################################################################################################									
 #  Oracle checker
-#  queries databases for parameters and places the result in Excel or an Oracle table.				
+#  queries databases for parameters and places the result in Excel or an Oracle table.
+#  Created 27-11-2019 by Karol Wieliczko    karol.wieliczko () protonmail.com
 ##################################################################################################
 
 

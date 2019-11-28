@@ -2,7 +2,7 @@
 ### Queries databases for parameters and places the result in Excel file or an Oracle table.
 
 
-First, set up a set of tables using the queries available in the .sql file
+To install the application first, set up a set of tables using the queries available in the .sql file
 
 The source of the program's information is a table with a list of hosts and access parameters to all our databases.
 

@@ -1,5 +1,5 @@
 # oracle-checker
-#### Queries databases for parameters and places the result in Excel or an Oracle table.
+## Queries databases for parameters and places the result in Excel or an Oracle table.
 
 
 First, set up a set of tables using the queries available in the .sql file

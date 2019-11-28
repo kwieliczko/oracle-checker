@@ -31,6 +31,7 @@ ID    DATA                  DB_ID        DB_NAME      DB_SIZE     SGA_SIZE   PGA
 
 If we run the program with the --xls parameter, then the current data was saved in an Excel file (for further manual processing of the type charts or presentations)
 
+
 |ID    | DB_ID      |  DB_NAME |  DB_SIZE     | SGA_SIZE   | PGA_SIZE  |  VERSION   | CPU|
 |----- |:----------:|:--------:|:------------:|:----------:|:---------:|:----------:|---:|
 | 3303 | 2537186398 |  hr      |  37219860480 | 1912602624 | 118849086 | 18.0.0.0.0 |  2 |
